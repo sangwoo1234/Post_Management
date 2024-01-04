@@ -1,0 +1,69 @@
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\bin\Debug\Protpolio_Order.exe.config
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\bin\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\bin\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.Properties.Resources.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.LoginForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\obj\Debug\Protpolio_Order.UserAddForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe.config
+E:\c#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe
+E:\c#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.pdb
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.AssemblyReference.cache
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.SuggestedBindingRedirects.cache
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.LoginForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.Properties.Resources.resources
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserAddForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.GenerateResource.cache
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.CoreCompileInputs.cache
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.exe
+E:\c#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe.config
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.LoginForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.Properties.Resources.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserAddForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.RootForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserInfomationForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe.config
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.pdb
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.AssemblyReference.cache
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.SuggestedBindingRedirects.cache
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.LoginForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.Properties.Resources.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.RootForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserAddForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserInfomationForm.resources
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.GenerateResource.cache
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.CoreCompileInputs.cache
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.exe
+E:\c#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe.config
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\bin\Debug\Protpolio_Order.pdb
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.LoginForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.Properties.Resources.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.RootForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserAddForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.UserInfomationForm.resources
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.exe
+C:\Users\MSI\Desktop\개인 공부\C#\Protpolio_Order\Protpolio_Order\Protpolio_Order\obj\Debug\Protpolio_Order.pdb
