@@ -1,0 +1,42 @@
+DB이름 = PostManagement
+
+create table 사용자(
+이름 varchar(30) not null,
+비밀번호 varchar(50),
+전화번호 varchar(13),
+거주지 varchar(50),
+권한 int,
+primary key(이름));
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+create table 상품(
+상품명 varchar(10),
+상품번호 int,
+남은갯수 int,
+primary key(상품번호)
+);
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+create table 주문내역(
+주문자이름 varchar(30) not null,
+주문자비밀번호 varchar(50),
+상품명 varchar(10),
+상품번호 int,
+거주지 varchar(50), 
+);
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+create trigger 상품재고
+on 주문내역
+after INSERT
+as
+DECLARE @상품번호 int;
+SELECT @상품번호=상품번호 from INSERTED;
+update 상품
+set 남은갯수 = 남은갯수 - 1
+where 상품번호 = @상품번호;
+PRINT '재고테이블에서 수량이 1 감소'
+GO
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+INSERT INTO 상품 VALUES('사과',180041,50)
+INSERT INTO 상품 VALUES('바나나',180042,5)
+INSERT INTO 상품 VALUES('키위',180043,3)
+
+INSERT INTO 사용자 VALUES('root','kirigaya13',010-2293-7553,'전라북도',1)
